@@ -16,8 +16,8 @@ from queue import Queue
 # --------------------------------------------------
 # CONFIGURATION
 # --------------------------------------------------
-BOT_TOKEN = '8168004449:AAHsY9KsZN2ZGU3EeEVlV5sAXwdGXpal_ss'
-CHAT_ID = '7332916002'
+BOT_TOKEN = 'Your Telegram bot API key'
+CHAT_ID = 'Chat ID to receive alerts'
 MODEL_PATH = 'yolov8n.pt'
 CAM_INDEX = 0
 LOCATION = "11.3400, 77.6300"
